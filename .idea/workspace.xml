@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86eb1fdf-6ffc-4337-8915-e4270d2a0241" name="Default Changelist" comment="" />
+    <list default="true" id="86eb1fdf-6ffc-4337-8915-e4270d2a0241" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hXLAOkamLWdR8z40kChe8K2e1l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="com.cybertek.step_definitions.HomePageStepDefinitions" />
@@ -73,7 +80,7 @@
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/homepage.feature" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="bookitacceptancetests" />
+      <module name="eu2bookitcucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
       <option name="SUGGESTED_NAME" value="Feature: homepage" />
       <extension name="coverage">
@@ -90,7 +97,7 @@
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/homepage.feature" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="bookitacceptancetests" />
+      <module name="eu2bookitcucumber" />
       <option name="NAME_FILTER" value="^login as a team lead$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^login as a team lead$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: login as a team lead" />
@@ -108,7 +115,7 @@
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/homepage.feature" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="bookitacceptancetests" />
+      <module name="eu2bookitcucumber" />
       <option name="NAME_FILTER" value="^login as team lead$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^login as team lead$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: login as team lead" />
@@ -123,7 +130,7 @@
       </method>
     </configuration>
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bookitacceptancetests" />
+      <module name="eu2bookitcucumber" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.runners.*" />
@@ -171,6 +178,19 @@
       <updated>1600152345898</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
